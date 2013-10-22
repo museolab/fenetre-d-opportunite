@@ -17,17 +17,17 @@ Le temps d'installation et de mise en route du dispositif est d'au maximum 2 heu
 
 ##Liste des éléments du dispositif
   - 8 panneaux 87cm x 220cm
-    - [ ] A1, 
-    - [ ] A2, 
-    - [ ] B1, 
-    - [ ] B2, 
-    - [ ] C1, 
-    - [ ] C2, 
-    - [ ] E1, 
-    - [ ] E2.
+    - [ ] A1
+    - [ ] A2 
+    - [ ] B1 
+    - [ ] B2 
+    - [ ] C1 
+    - [ ] C2 
+    - [ ] E1 
+    - [ ] E2
   - 2 retours
     - [ ] R1, 20cm x 220 cm 
-    - [ ] R2; 20cm x 87 cm x 220 cm
+    - [ ] R2, 20cm x 87 cm x 220 cm
   - [ ] 30 vis d'assemblage M8x120
   - [ ] 4 traverses hautes
   - [ ] 4 traverses basses
@@ -70,7 +70,7 @@ Le temps d'installation et de mise en route du dispositif est d'au maximum 2 heu
   - [ ] Scotch shatterton de couleur pour la scénographie.
 
 ##Matériel facultatif
-  -[ ] multiprise 220v 5 entrées
+  - [ ] multiprise 220v 5 entrées
 
 ##Exploitation
   - Démarrage
