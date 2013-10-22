@@ -10,48 +10,58 @@ Pré-requis d'installation
   - Eclairage
   
 Liste des éléments du dispositif
-  -[ ] 8 panneaux A1, A2, B1, B2, C1, C2, E1, E2.
-  -[ ] 2 retours R1 et R2
-  -[ ] 30 vis d'assemblage M8x120
-  -[ ] 4 traverses hautes
-  -[ ] 4 traverses basses
-  -[ ] 36 vis d'assemblage M8x100
-  -[ ] 66 rondelles pour vis coniques.
-  -[ ] Traverse haute de l'entrée
-  -[ ] Traverses de support vidéo-proj
-  -[ ] 7 vis d'assemblage M8x100
-  -[ ] Support de video-proj
-  -[ ] 4 vis d'assemblage M8x60
-  -[ ] élingue d'assurage vidéo-proj
-  -[ ] support webCam intéieure
-  -[ ] socle téléviseur
-  -[ ] Canapé Ikéa
-  -[ ] Rideau de porte d'entrée dispositif
-  -[ ] 2m ou plus de passe-câble (plus selon implantation)
-  -[ ] 
+  - 8 panneaux 87cm x 220cm
+    - [ ] A1, 
+    - [ ] A2, 
+    - [ ] B1, 
+    - [ ] B2, 
+    - [ ] C1, 
+    - [ ] C2, 
+    - [ ] E1, 
+    - [ ] E2.
+  - 2 retours
+    - [ ] R1, 20cm x 220 cm 
+    - [ ] R2; 20cm x 87 cm x 220 cm
+  - [ ] 30 vis d'assemblage M8x120
+  - [ ] 4 traverses hautes
+  - [ ] 4 traverses basses
+  - [ ] 36 vis d'assemblage M8x100
+  - [ ] 66 rondelles pour vis coniques.
+  - [ ] Traverse haute de l'entrée
+  - [ ] Traverses de support vidéo-proj
+  - [ ] 7 vis d'assemblage M8x100
+  - [ ] Support de video-proj
+  - [ ] 4 vis d'assemblage M8x60
+  - [ ] élingue d'assurage vidéo-proj
+  - [ ] support webCam intéieure
+  - [ ] socle téléviseur
+  - [ ] Canapé Ikéa
+  - [ ] Rideau de porte d'entrée dispositif
+  - [ ] 2m ou plus de passe-câble (plus selon implantation)
+  - [ ] 
 
 Matériel électrique et infomatique
-  -[ ] câble Europa vidéo-proj
-  -[ ] câble VGA <-> DVI vidéo-proj <-> PC
-  -[ ] 20 câbles XLR mâle/Femelle numérotés de 1 à 20.
-  -[ ] PC avec le soft 'Processing' installé + VLC
-  -[ ] 2 webCams Logitech USB
-  -[ ] Téléviseur HD Philips
-  -[ ] Câble Europa Tv
-  -[ ] Télécommande Tv
-  -[ ] Câble HDMI Tv <-> PC
-  -[ ] 2 rallonges électrique 220v
-  -[ ] Transucteur sonore
-  -[ ] alimentation transucteur sonore
-  -[ ] jack mâle/mâle transucteur sonore 2.5mm / 3.5mm
-  -[ ] 2 projecteurs à pince pour l'éclairage intérieur
+  - [ ] câble Europa vidéo-proj
+  - [ ] câble VGA <-> DVI vidéo-proj <-> PC
+  - [ ] 20 câbles XLR mâle/Femelle numérotés de 1 à 20.
+  - [ ] PC avec le soft 'Processing' installé + VLC
+  - [ ] 2 webCams Logitech USB
+  - [ ] Téléviseur HD Philips
+  - [ ] Câble Europa Tv
+  - [ ] Télécommande Tv
+  - [ ] Câble HDMI Tv <-> PC
+  - [ ] 2 rallonges électrique 220v
+  - [ ] Transucteur sonore
+  - [ ] alimentation transucteur sonore
+  - [ ] jack mâle/mâle transucteur sonore 2.5mm / 3.5mm
+  - [ ] 2 projecteurs à pince pour l'éclairage intérieur 
 
 Matériel de montage
-  -[ ] Clé alène de 5mm
-  -[ ] 2 sangles à cliquets
-  -[ ] petit escabeau
-  -[ ] tournevis 
-  -[ ] Scotch shatterton de couleur pour la scénographie.
+  - [ ] Clé alène de 5mm
+  - [ ] 2 sangles à cliquets
+  - [ ] petit escabeau
+  - [ ] tournevis 
+  - [ ] Scotch shatterton de couleur pour la scénographie.
 
 Matériel facultatif
   -[ ] multiprise 220v 5 entrées
