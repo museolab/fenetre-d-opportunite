@@ -64,10 +64,11 @@ Le temps d'installation et de mise en route du dispositif est d'au maximum 2 heu
   - [ ] 2 projecteurs à pince pour l'éclairage intérieur 
 
 ##Matériel de montage
-  - [ ] Clé alène de 5mm
+  - [ ] Clé alène de 5mm ou visseuse électrique
   - [ ] 2 sangles à cliquets
   - [ ] escabeau
   - [ ] tournevis 
+  - [ ] Pied de biche 
   - [ ] Scotch shatterton de couleur pour la scénographie.
 
 ##Matériel facultatif
