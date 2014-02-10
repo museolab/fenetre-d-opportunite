@@ -53,6 +53,7 @@ Le temps d'installation et de mise en route du dispositif est d'au maximum 2 heu
   - [ ] PC avec le soft 'Processing' installé + VLC
   - [ ] 2 webCams Logitech USB
   - [ ] Téléviseur HD Philips
+  - [ ] Vidéoprojecteur focale courte Epson
   - [ ] Câble Europa Tv
   - [ ] Télécommande Tv
   - [ ] Câble HDMI Tv <-> PC
@@ -63,10 +64,11 @@ Le temps d'installation et de mise en route du dispositif est d'au maximum 2 heu
   - [ ] 2 projecteurs à pince pour l'éclairage intérieur 
 
 ##Matériel de montage
-  - [ ] Clé alène de 5mm
+  - [ ] Clé alène de 5mm ou visseuse électrique
   - [ ] 2 sangles à cliquets
-  - [ ] petit escabeau
+  - [ ] escabeau
   - [ ] tournevis 
+  - [ ] Pied de biche 
   - [ ] Scotch shatterton de couleur pour la scénographie.
 
 ##Matériel facultatif
@@ -74,14 +76,22 @@ Le temps d'installation et de mise en route du dispositif est d'au maximum 2 heu
 
 ##Exploitation
   - Démarrage
+    - Allumer le vidéo-proj intérieur
+    - Allumer le téléviseur extérieur
     - Appuyer un bref instant sur le bouton d'alumage/extinction du PC
-    - Allumer le vidéo-proj
+    - ouvrir un exporateur
+    - aller sur le buerau/fenetre_oportunite/bin/fenetre
+    - lancer fenetre.pde
+    - sur l'écran intérieur, lancer le script processing, qui doit s'afficher en plein écran.
+    - sur l'écran extérieur, lancer VLC.
+    - dans VLC, "ouvrir un périphérique de capture" et choisir la webcam marquée #1, puis "Lire"
     
   - Arrêt
     - Appuyer un bref instant sur le bouton d'alumage/extinction du PC
     - Eteindre le vidéo-proj
+    - Eteindre le téléviseur
 
-  - Règlages
+  - Réglages
   
 
   
